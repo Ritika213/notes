@@ -1,0 +1,4 @@
+var is globally scoped while let & const are block scoped.
+var can be updated & re-declared within its scope.
+let can be updale but not re-declared.
+const can neither be updated nor be re-declared.
